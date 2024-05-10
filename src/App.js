@@ -1,12 +1,41 @@
 import axios from "axios";
 import React, { Component } from "react";
 import "./App.css";
-import seneca from './images/seneca.jpeg';
-import marcus from './images/marcus.jpg';
-import epictitus from './images/epictitus.jpeg';
-import ryan from './images/ryan.jpeg';
+import seneca from "./images/seneca.jpeg";
+import marcus from "./images/marcus.jpg";
+import epictitus from "./images/epictitus.jpeg";
+import ryan from "./images/ryan.jpeg";
+import alan from "./images/alan.jpeg";
+import benedict from "./images/benedict.jpeg";
+import bob from "./images/bob.jpeg";
+import budhaa from "./images/budhaa.jpeg";
+import david from "./images/david.jpeg";
+import krishna from "./images/krishna.jpeg";
+import nasim from "./images/nasim.jpeg";
+import naval from "./images/naval.jpeg";
+import rinpoche from "./images/rinpoche.jpeg";
+import stoicism from "./images/stoicism.jpeg";
+import thibaut from "./images/thibaut.jpeg";
+import voltaire from "./images/voltaire.jpeg";
 
-const imageUrls = [seneca, marcus, epictitus, ryan];
+const imageUrls = [
+  seneca,
+  marcus,
+  epictitus,
+  ryan,
+  alan,
+  benedict,
+  bob,
+  budhaa,
+  david,
+  krishna,
+  nasim,
+  naval,
+  rinpoche,
+  stoicism,
+  thibaut,
+  voltaire,
+];
 export default class Aph4 extends Component {
   state = { quote: "", author: "", backgroundImageIndex: 0 };
 
