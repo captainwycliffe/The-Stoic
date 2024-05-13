@@ -1,7 +1,7 @@
 
 
 
-###THE STOIC
+##THE STOIC
 
 Welcome to Stoic, where we merge timeless wisdom with modern productivity. This repository is inspired by the teachings of Stoicism, as well as insights from thinkers such as Seneca, Marcus Aurelius, Buddha, Naval Ravikant, and more. Each project within this repository is accompanied by a quote that embodies the Stoic principles of resilience, virtue, and tranquility. Additionally, the background image of this document will change with each new quote, offering visual variety and inspiration.
 
