@@ -9,13 +9,13 @@ To get started with Stoic Projects, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/StoicProjects.git
+git clone https://github.com/captainwycliffe/The-Stoic.git
 ```
 
 2. Navigate into the project directory:
 
 ```bash
-cd StoicProjects
+cd The-Stoic
 ```
 
 3. Install dependencies using npm or yarn:
